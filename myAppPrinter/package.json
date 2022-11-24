@@ -1,0 +1,19 @@
+{
+  "name": "myappprinter",
+  "version": "1.0.0",
+  "description": "This app is a test to make prints",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "printer"
+  ],
+  "author": "Marco Gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.3",
+    "electron": "^21.3.1"
+  }
+}
